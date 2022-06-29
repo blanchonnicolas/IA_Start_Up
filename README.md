@@ -10,6 +10,8 @@ You can see the results here :
 
 -   [Presentation](https://github.com/blanchonnicolas/IA_Project6_Openclassrooms_IAStart_Up/blob/main/p6_04_presentation.pdf)
 
+-   [Vidéo](https://youtu.be/UHu5RjeZMo8)
+
 -   [Notebook 1 : Texte processing + NLP](https://github.com/blanchonnicolas/IA_Project6_Openclassrooms_IAStart_Up/blob/main/IAStart_Up_texte.ipynb)
     - NLP Tokenisation, Lemmatisation, StopWords, Bag of Words, Tag
     - LDA + GENSIM + NMF
@@ -33,7 +35,7 @@ You can see the results here :
     - Clustering kMeans
     - Visualisation T-SNE
 
--   [Notebook 5 : Webpage HTML](https://github.com/blanchonnicolas/IA_Project6_Openclassrooms_IAStart_Up/blob/main/IA_StartUp_Images_CNN_TransferLearning.ipynb)
+-   [Notebook 5 : Webpage HTML](https://github.com/blanchonnicolas/IA_Project6_Openclassrooms_IAStart_Up/blob/main/IA_Start_Up_Webpage.ipynb)
     - Streamlit
     - Joblib models
 
